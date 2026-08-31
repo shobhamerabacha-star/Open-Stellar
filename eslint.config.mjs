@@ -24,4 +24,4 @@ export default [
       'react-hooks/refs': 'off',
     },
   },
-]
+];
