@@ -21,3 +21,4 @@ node_modules
 tsconfig.tsbuildinfo
 test-results/
 playwright-report/
+config.bat
