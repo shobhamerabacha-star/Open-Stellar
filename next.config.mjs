@@ -38,4 +38,4 @@ const nextConfig = {
   },
 }
 
-export default withLogtail(nextConfig)
+export default withLogtail(nextConfig);
